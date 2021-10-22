@@ -1,10 +1,28 @@
 # 2021_TP_PPS_Comanda_2_cuatri
-Trabajo práctico grupal - PPS - segundo parcial
+La Comanda 
+ Práctica Profesional Supervisada 2021 2do Cuatrimestre
+ 
+
+Desarrolladores
+
+```
+-German Alvaredo
+-Camila Rori
+```
+
+1 - Fecha Sabado 23/10/21 al Sabado 30/10/21
+
+``` Rori , Camila ```
+
+- ALTA MESA
+- ALTA PRODUCTO
 
 
-Para registrar el grupo completo con todos sus integrantes: https://forms.gle/199SDyAhLxPejsNo9
+``` Alvaredo , German ```
 
-Grupos:
+- ALTA DE PERFIL
+- LOGIN
 
-Máximo 3 integrantes
-Mínimo 2 integrantes
+
+
+
