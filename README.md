@@ -6,7 +6,7 @@ La Comanda
 Desarrolladores
 
 ```
--German Alvaredo
+-Germán Alvaredo
 -Camila Rori
 ```
 
@@ -18,7 +18,7 @@ Desarrolladores
 - ALTA PRODUCTO
 
 
-``` Alvaredo , German ```
+``` Alvaredo , Germán ```
 
 - ALTA DE PERFIL
 - LOGIN
