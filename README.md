@@ -20,7 +20,7 @@ Desarrolladores
 
 ``` Alvaredo , Germán ```
 
-- ALTA DE PERFIL
+- ALTA DE CLIENTE
 - LOGIN
 
 
