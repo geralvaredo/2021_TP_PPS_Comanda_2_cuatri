@@ -37,12 +37,12 @@ Alvaredo, Germán
 
 
 
-<img src="recursos/login.jpg" alt="comanda splash" width="1080" height="2160">
-<img src="recursos/validacionesLogin.jpg" alt="comanda splash" width="1080" height="2160">
-<img src="recursos/clienteRegistrado.jpg" alt="comanda splash" width="1080" height="2160">
-<img src="recursos/ClienteAnonimo.jpg" alt="comanda splash" width="1080" height="2160">
-<img src="recursos/MenuSupervisor.jpg" alt="comanda splash" width="1080" height="2160">
-<img src="recursos/Menu.jpg" alt="comanda splash" width="1080" height="2160">
+<img src="recursos/login.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/validacionesLogin.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/clienteRegistrado.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/ClienteAnonimo.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/MenuSupervisor.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/Menu.jpg" alt="comanda splash" width="350px" height="640px">
 
 
 
