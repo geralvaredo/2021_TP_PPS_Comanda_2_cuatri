@@ -29,18 +29,24 @@ Alvaredo, Germán
   ```
 
 - [x] Login
-- [x] Validacion de campos de login
+- [x] Validación de campos de login
 - [x] Dar de alta un cliente registrado
-- [x] Validacion de campos y formatos de registro del cliente
+- [x] Validación de campos y formatos de registro del cliente
 - [x] Supervisor acepta y rechaza cliente (sin enviar el mail)
 - [x] Registrar un cliente anonimo
 
 
+### Login y validaciones
 
 <img src="recursos/login.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/validacionesLogin.jpg" alt="comanda splash" width="350px" height="640px">
+
+### Cliente Registrado y anónimo
+
 <img src="recursos/clienteRegistrado.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/ClienteAnonimo.jpg" alt="comanda splash" width="350px" height="640px">
+
+### ------- 
 <img src="recursos/MenuSupervisor.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/Menu.jpg" alt="comanda splash" width="350px" height="640px">
 
@@ -58,13 +64,15 @@ Alvaredo, Germán
 - [x] Juego PPT (piedra , papel o tijera ) 20% descuento (video 3)
 - [x] Encuesta del Cliente (video 4)
 
-###Realizar Pedido
+### Realizar Pedido
+
 <img src="recursos/alta-pedido-1.png" alt="realizar-pedido1" width="350px" height="640px">
 <img src="recursos/alta-pedido-2.png" alt="realizar-pedido2" width="350px" height="640px">
 <img src="recursos/alta-pedido-3.png" alt="realizar-pedido3" width="350px" height="640px">
 
 
-###Icono y Splash
+###  Icono y Splash
+
 <img src="recursos/icon.png" alt="icono" width="350px" height="640px">
 <img src="recursos/splash.png" alt="splash" width="350px" height="640px">
 <img src="recursos/splashScreen.gif" alt="splashScreen" width="350px" height="640px">
