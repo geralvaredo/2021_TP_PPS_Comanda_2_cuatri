@@ -79,6 +79,7 @@ Alvaredo, Germán
 
 
 ###Juego PPT (piedra , papel o tijera)
+
 <img src="recursos/jueg-ppt-1.png" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/jueg-ppt-2.png" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/jueg-ppt-3.png" alt="comanda splash" width="350px" height="640px">
