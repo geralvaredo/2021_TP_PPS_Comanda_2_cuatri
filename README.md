@@ -104,7 +104,7 @@ Alvaredo, Germán
 
 <img src="recursos/ingreso.jpg" alt="comanda splash" width="350px" height="640px">
 
-###Menu con botones de lista de espera y encuesta
+### Menu con botones de lista de espera y encuesta
 
 <img src="recursos/listaEspera.jpg" alt="comanda splash" width="350px" height="640px">
 
@@ -113,13 +113,13 @@ Alvaredo, Germán
 <img src="recursos/PonerseEnEspera.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/PonerseEnEspera2.jpg" alt="comanda splash" width="350px" height="640px">
 
-###Asignacion de mesa con metre
+### Asignacion de mesa con metre
 <img src="recursos/EnEsperaMetre.jpg" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/AsignarMesa.jpg" alt="comanda splash" width="350px" height="640px">
 
 ![image](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
 
-###Envio de Email
+### Envio de Email
 <img src="recursos/EnvioDeMail.jpg" alt="comanda splash" width="350px" height="640px">
 
 
