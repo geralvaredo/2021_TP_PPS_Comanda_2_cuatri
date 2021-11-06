@@ -62,7 +62,7 @@ Alvaredo, Germán
 - [x] Splash (video 1)
 - [x] Sonido de inicio (video 1)
 - [x] Juego PPT (piedra , papel o tijera ) 20% descuento (video 3)
-- [x] Encuesta del Cliente (video 4)
+
 
 ### Realizar Pedido
 
@@ -84,18 +84,43 @@ Alvaredo, Germán
 <img src="recursos/jueg-ppt-2.png" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/jueg-ppt-3.png" alt="comanda splash" width="350px" height="640px">
 
-###Encuesta
+
 
 
 
 ``` Alvaredo , Germán ```
+- [x] Gestion: Ingreso al Local con usuario Registrado y ponerse en lista de Espera
+- [x] Correción de registro anonimo de botones que estaban juntos (video 1)
+- [x] Gestion: Solicitar Mesa (video 3)
+- [x] Gestion: Supervisor o dueño acepta y rechaza cliente (con envío el mail) (video 2)
 
-- [x] Gestion: Ingreso al Local
-- Gestion: Solicitar Mesa
-- [x] Gestion: Supervisor o dueño acepta y rechaza cliente (con envio el mail)
-- 2 Juegos
-- Pagina Home
+### Correción de registro anonimo
 
+<img src="recursos/ClienteAnonimo1.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/ClienteAnonimo2.jpg" alt="comanda splash" width="350px" height="640px">
+
+
+### Ingreso al local
+
+<img src="recursos/ingreso.jpg" alt="comanda splash" width="350px" height="640px">
+
+###Menu con botones de lista de espera y encuesta
+
+<img src="recursos/listaEspera.jpg" alt="comanda splash" width="350px" height="640px">
+
+### Ponerse en Espera
+
+<img src="recursos/PonerseEnEspera.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/PonerseEnEspera2.jpg" alt="comanda splash" width="350px" height="640px">
+
+###Asignacion de mesa con metre
+<img src="recursos/EnEsperaMetre.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/AsignarMesa.jpg" alt="comanda splash" width="350px" height="640px">
+
+![image](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
+
+###Envio de Email
+<img src="recursos/EnvioDeMail.jpg" alt="comanda splash" width="350px" height="640px">
 
 
 ### 3 - Fecha Sabado 06/11/21 al Sabado 13/11/21
@@ -103,12 +128,14 @@ Alvaredo, Germán
 ``` Rori , Camila ```
 - Gestion : Confirmar Pedidos
 - Solicitar Cuenta
+- Encuesta del Cliente 
 
 ``` Alvaredo , Germán ```
+-  Gestion: Ingreso al Local completo
 - Push notification 
 - Consulta al mozo
-- 
-
+- 2 Juegos
+- Pagina Home completo
 
 
 
