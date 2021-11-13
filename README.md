@@ -126,6 +126,11 @@ Alvaredo, Germán
 ### 3 - Fecha Sabado 06/11/21 al Sabado 13/11/21
 
 ``` Rori , Camila ```
+- [x] Gestion : Confirmar Pedidos
+- [x] Cliente consulta estado pedido
+- [x] Solicitar Cuenta
+- [x] Encuesta del Cliente 
+
 ### Gestion : Confirmar Pedidos
 <img src="recursos/pedidos-1.png" alt="comanda splash" width="350px" height="640px">
 <img src="recursos/pedidos-2.png" alt="comanda splash" width="350px" height="640px">
