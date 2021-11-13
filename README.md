@@ -126,9 +126,27 @@ Alvaredo, Germán
 ### 3 - Fecha Sabado 06/11/21 al Sabado 13/11/21
 
 ``` Rori , Camila ```
-- Gestion : Confirmar Pedidos
-- Solicitar Cuenta
-- Encuesta del Cliente 
+### Gestion : Confirmar Pedidos
+<img src="recursos/pedidos-1.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/pedidos-2.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/pedidos-3.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/pedidos-4.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/pedidos-5.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/pedidos-6.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/pedidos-7.png" alt="comanda splash" width="350px" height="640px">
+
+### Consultar estado pedido
+<img src="recursos/estado-pedido.png" alt="comanda splash" width="350px" height="640px">
+
+### Solicitar Cuenta
+<img src="recursos/cuenta.png" alt="comanda splash" width="350px" height="640px">
+
+### Encuesta del Cliente 
+<img src="recursos/encuesta-1.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/encuesta-2.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/encuesta-3.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/encuesta-4.png" alt="comanda splash" width="350px" height="640px">
+
 
 ``` Alvaredo , Germán ```
 -  Gestion: Ingreso al Local completo
