@@ -75,7 +75,7 @@ Rori , Camila
 
 
 ### Splash
-<img src="recursos/splash.jpg" alt="splash" width="400px" height="600px">
+<img src="recursos/splash.jpg" alt="splash" width="400px" height="400px"> 
 <img src="recursos/splashScreen.gif" alt="splashScreen" width="350px" height="640px">
 
 
@@ -98,7 +98,7 @@ Rori , Camila
 ### Cliente Registrado
 
 <img src="recursos/registro-cliente1.jpg" alt="comanda splash" width="900px" height="600px">
-<img src="recursos/registro-cliente2.jpg" alt="comanda splash" width="900px" height="600px">
+<img src="recursos/registro-cliente2.jpg" alt="comanda splash" width="800px" height="600px">
 
 
 ### Correción de registro anonimo
@@ -116,17 +116,17 @@ Rori , Camila
 
 ### Ponerse en Espera
 
-<img src="recursos/poner-en-espera.jpg" alt="espera" width="900px" height="600px">
+<img src="recursos/poner-en-espera.jpg" alt="espera" width="800px" height="600px">
 
 ### Asignacion de mesa con metre
-<img src="recursos/espera-asignacion.jpg" alt="comanda splash" width="900px" height="600px">
+<img src="recursos/espera-asignacion.jpg" alt="comanda splash" width="800px" height="600px">
 
 ### gif Asignacion
 
-![image](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
+![](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
 
 ### Envio de Email
-<img src="recursos/EnvioDeMail.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/EnvioDeMail.jpg" alt="comanda splash" width="400px" height="700px">
 
 
 ### :information_source: Sprint 3 - Fecha Sabado 06/11/21 al Sabado 13/11/21
@@ -139,7 +139,7 @@ Rori , Camila
 - [x] Encuesta del Cliente 
 
 ### Gestion : Confirmar Pedidos
-<img src="recursos/pedidos1.jpg" alt="comanda splash" width="900px" height="600px">
+<img src="recursos/pedidos1.jpg" alt="comanda splash" width="1000px" height="600px">
 <img src="recursos/pedidos2.jpg" alt="comanda splash" width="900px" height="600px">
 
 
@@ -150,7 +150,7 @@ Rori , Camila
 <img src="recursos/cuenta.jpg" alt="comanda splash" width="350px" height="640px">
 
 ### Encuesta del Cliente 
-<img src="recursos/Encuesta.jpg" alt="comanda splash" width="900px" height="600px">
+<img src="recursos/Encuesta.jpg" alt="comanda splash" width="1000px" height="600px">
 
 
 
@@ -162,12 +162,12 @@ Rori , Camila
 
 
 ### Ingreso al local
-<img src="recursos/boton-ingreso.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/boton-ingreso.jpg" alt="ingreso" width="350px" height="600px">
 
 
 ### Estados de la cuenta pendiente / rechazado
-<img src="recursos/login-cuenta-pendiente.jpg" alt="ingreso" width="400px" height="600px">
-<img src="recursos/cuenta-rechazada.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/login-cuenta-pendiente.jpg" alt="ingreso" width="350px" height="600px">
+<img src="recursos/cuenta-rechazada.jpg" alt="ingreso" width="350px" height="600px">
 
 
 ### Juego Tateti (10% de descuento)
@@ -194,27 +194,27 @@ Rori , Camila
 - [x] cambios y correción de asignacion de mesa
 
 ### Menu de Metre y su notificación de ingreso al local
-<img src="recursos/menu-notificacion.jpg" alt="ingreso" width="900px" height="600px">
+<img src="recursos/menu-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de mozo y su notificación de chat
-<img src="recursos/mozo-notificacion.jpg" alt="ingreso" width="900px" height="600px">
+<img src="recursos/mozo-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de supervisor/dueño y su notificación de pendientes
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="900px" height="600px">
+<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de cocinero/bartender y su notificación de mozo a empleados (falta imagen)
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="900px" height="600px">
+<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de mozo y su notificación de empleados al mozo (falta imagen)
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="900px" height="600px">
+<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Home del Cliente Registrado/Anonimo 
-<img src="recursos/cliente-home.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/cliente-home.jpg" alt="ingreso" width="350px" height="600px">
 
 ### Cliente anonimo en lista de espera
 <img src="recursos/cliente-lista-de-espera.jpg" alt="ingreso" width="400px" height="600px">
@@ -223,31 +223,31 @@ Rori , Camila
 
 
 ### Correción en asignacion de mesa
-<img src="recursos/asignacion-mesa.jpg" alt="ingreso" width="900px" height="600px">
+<img src="recursos/asignacion-mesa.jpg" alt="ingreso" width="1000px" height="600px">
 
 ### Cliente con mesa asignada 
-<img src="recursos/escanear-mesa.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/escanear-mesa.jpg" alt="ingreso" width="350px" height="600px">
 
 
 ### Supervisor en listado pendientes
-<img src="recursos/supervisor-pendientes2.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/supervisor-pendientes2.jpg" alt="ingreso" width="350px" height="600px">
 
 
 ### Menu del Cliente
-<img src="recursos/cliente-menu.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/cliente-menu.jpg" alt="ingreso" width="350px" height="600px">
 
 
 ### Chat con el Mozo
-<img src="recursos/cliente-mozo-chat.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/cliente-mozo-chat.jpg" alt="ingreso" width="350px" height="600px">
 
 
 
 ``` Rori , Camila ```
 
-- [x]: Historial de Encuestas
+- [x] Historial de Encuestas
 
 
 
 ### Cliente en histórial de Encuestas
-<img src="recursos/Historico-Encuestas.jpg" alt="ingreso" width="400px" height="600px">
+<img src="recursos/Historico-Encuestas.jpg" alt="ingreso" width="350px" height="600px">
 
