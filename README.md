@@ -7,7 +7,7 @@ Práctica Profesional Supervisada 2021 2do Cuatrimestre
 GRUPO:  :poultry_leg: REDRAGON  :beer:
 
 
-<img src="recursos/icon.png" alt="icono" width="600px" height="600px">
+<img src="recursos/icon.jpg" alt="icono" width="500px" height="500px">
  	
 
 Desarrolladores
@@ -97,13 +97,13 @@ Rori , Camila
 
 ### Cliente Registrado
 
-<img src="recursos/registro-cliente1.jpg" alt="comanda splash" width="600px" height="600px">
-<img src="recursos/registro-cliente2.jpg" alt="comanda splash" width="600px" height="600px">
+<img src="recursos/registro-cliente1.jpg" alt="comanda splash" width="800px" height="600px">
+<img src="recursos/registro-cliente2.jpg" alt="comanda splash" width="800px" height="600px">
 
 
 ### Correción de registro anonimo
 
-<img src="recursos/cliente-anonimo.jpg" alt="comanda splash" width="600px" height="600px">
+<img src="recursos/cliente-anonimo.jpg" alt="comanda splash" width="800px" height="600px">
 
 
 ### Ingreso al local
@@ -116,10 +116,10 @@ Rori , Camila
 
 ### Ponerse en Espera
 
-<img src="recursos/poner-en-espera.jpg" alt="espera" width="600px" height="600px">
+<img src="recursos/poner-en-espera.jpg" alt="espera" width="800px" height="600px">
 
 ### Asignacion de mesa con metre
-<img src="recursos/espera-asignacion.jpg" alt="comanda splash" width="600px" height="600px">
+<img src="recursos/espera-asignacion.jpg" alt="comanda splash" width="800px" height="600px">
 
 ### gif Asignacion
 ![image](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
@@ -138,8 +138,8 @@ Rori , Camila
 - [x] Encuesta del Cliente 
 
 ### Gestion : Confirmar Pedidos
-<img src="recursos/pedidos1.jpg" alt="comanda splash" width="600px" height="600px">
-<img src="recursos/pedidos2.jpg" alt="comanda splash" width="600px" height="600px">
+<img src="recursos/pedidos1.jpg" alt="comanda splash" width="800px" height="600px">
+<img src="recursos/pedidos2.jpg" alt="comanda splash" width="800px" height="600px">
 
 
 ### Consultar estado pedido
@@ -149,7 +149,7 @@ Rori , Camila
 <img src="recursos/cuenta.jpg" alt="comanda splash" width="350px" height="640px">
 
 ### Encuesta del Cliente 
-<img src="recursos/Encuesta.jpg" alt="comanda splash" width="600px" height="600px">
+<img src="recursos/Encuesta.jpg" alt="comanda splash" width="800px" height="600px">
 
 
 
@@ -171,12 +171,12 @@ Rori , Camila
 
 
 ### Juego Tateti (10% de descuento)
-<img src="recursos/tateti-1.jpg" alt="ingreso" width="600px" height="600px">
-<img src="recursos/tateti-2.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/tateti-1.jpg" alt="ingreso" width="800px" height="600px">
+<img src="recursos/tateti-2.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Juegos MEMOTEST (bebida gratis)
-<img src="recursos/memotest.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/memotest.jpg" alt="ingreso" width="800px" height="600px">
 
 
 
@@ -194,23 +194,23 @@ Rori , Camila
 - [x]: cambios y correción de asignacion de mesa
 
 ### Menu de Metre y su notificación de ingreso al local
-<img src="recursos/menu-notificacion.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/menu-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de mozo y su notificación de chat
-<img src="recursos/mozo-notificacion.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/mozo-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de supervisor/dueño y su notificación de pendientes
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de cocinero/bartender y su notificación de mozo a empleados (falta imagen)
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Menu de mozo y su notificación de empleados al mozo (falta imagen)
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Home del Cliente Registrado/Anonimo 
@@ -223,7 +223,7 @@ Rori , Camila
 
 
 ### Correción en asignacion de mesa
-<img src="recursos/asignacion-mesa.jpg" alt="ingreso" width="600px" height="600px">
+<img src="recursos/asignacion-mesa.jpg" alt="ingreso" width="800px" height="600px">
 
 ### Cliente con mesa asignada 
 <img src="recursos/escanear-mesa.jpg" alt="ingreso" width="400px" height="600px">
