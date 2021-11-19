@@ -71,7 +71,7 @@ Rori , Camila
 
 ###  Icono 
 
-<img src="recursos/icon.jpg" alt="icono" width="400px" height="600px">
+<img src="recursos/icon.jpg" alt="icono" width="400px" height="400px">
 
 
 ### Splash
@@ -122,6 +122,7 @@ Rori , Camila
 <img src="recursos/espera-asignacion.jpg" alt="comanda splash" width="900px" height="600px">
 
 ### gif Asignacion
+
 ![image](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
 
 ### Envio de Email
@@ -154,18 +155,17 @@ Rori , Camila
 
 
 ``` Alvaredo , Germán ```
-- [x]: Gestion Ingreso al local
-- [x]: Estado pendiente/rechazado de la cuenta Registrada/Anónima
-- [x]: Juegos de 10% de descuento (TATETI)
-- [x]: Juegos de bebida gratis (MEMOTEST)
+- [x] Gestion Ingreso al local
+- [x] Estado pendiente/rechazado de la cuenta Registrada/Anónima
+- [x] Juegos de 10% de descuento (TATETI)
+- [x] Juegos de bebida gratis (MEMOTEST)
 
 
-
-###Ingreso al local
+### Ingreso al local
 <img src="recursos/boton-ingreso.jpg" alt="ingreso" width="400px" height="600px">
 
 
-###Estados de la cuenta pendiente / rechazado
+### Estados de la cuenta pendiente / rechazado
 <img src="recursos/login-cuenta-pendiente.jpg" alt="ingreso" width="400px" height="600px">
 <img src="recursos/cuenta-rechazada.jpg" alt="ingreso" width="400px" height="600px">
 
@@ -185,13 +185,13 @@ Rori , Camila
 
 ``` Alvaredo , Germán ```
 
-- [x]: Push Notification
-- [x]: Consulta al mozo
-- [x]: Pagina Home
-- [x]: Pagina Lista de Espera
-- [x]: Pagina Lista de Pendientes
-- [x]: Pagina Menu
-- [x]: cambios y correción de asignacion de mesa
+- [x] Push Notification
+- [x] Consulta al mozo
+- [x] Pagina Home
+- [x] Pagina Lista de Espera
+- [x] Pagina Lista de Pendientes
+- [x] Pagina Menu
+- [x] cambios y correción de asignacion de mesa
 
 ### Menu de Metre y su notificación de ingreso al local
 <img src="recursos/menu-notificacion.jpg" alt="ingreso" width="900px" height="600px">
