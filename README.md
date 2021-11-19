@@ -66,7 +66,7 @@ Rori , Camila
 
 ### Realizar Pedido
 
-<img src="recursos/alta-pedido.jpg" alt="realizar-pedido" width="600px" height="600px">
+<img src="recursos/alta-pedido.jpg" alt="realizar-pedido" width="700px" height="600px">
 
 
 ###  Icono 
