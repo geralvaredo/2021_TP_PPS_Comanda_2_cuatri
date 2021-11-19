@@ -81,7 +81,7 @@ Rori , Camila
 
 ###  Juego PPT (piedra , papel o tijera)
 
-<img src="recursos/Juego-ppt.jpg" alt="ppt" width="600x" height="600px">
+<img src="recursos/Juego-ppt.jpg" alt="ppt" width="600x" height="500px">
 
 
 
