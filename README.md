@@ -217,7 +217,7 @@ Rori , Camila
 <img src="recursos/notificacion-servir.jpg" alt="ingreso" width="800px" height="600px">
 
 ### Menu de Cocinero/bartender
-<img src="recursos/menu-cocinero-bartender.jpg" alt="ingreso" width="800px" height="600px">
+<img src="recursos/menu-cocinero-bartender.jpg" alt="ingreso" width="350x" height="600px">
 
 
 ### Home del Cliente Registrado/Anonimo 
