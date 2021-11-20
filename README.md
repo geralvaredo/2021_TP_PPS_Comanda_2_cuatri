@@ -159,6 +159,7 @@ Rori , Camila
 - [x] Estado pendiente/rechazado de la cuenta Registrada/Anónima
 - [x] Juegos de 10% de descuento (TATETI)
 - [x] Juegos de bebida gratis (MEMOTEST)
+- [x] Mail de Rechazo
 
 
 ### Ingreso al local
@@ -178,7 +179,8 @@ Rori , Camila
 ### Juegos MEMOTEST (bebida gratis)
 <img src="recursos/memotest.jpg" alt="ingreso" width="900px" height="600px">
 
-
+### Mail de Rechazo
+<img src="recursos/mailRechazo.jpg" alt="ingreso" width="400px" height="600px">
 
 
 ### :information_source: Sprint 4 - Fecha Sabado 13/10/21 al Sabado 20/11/21
@@ -205,12 +207,15 @@ Rori , Camila
 <img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
 
 
-### Menu de cocinero/bartender y su notificación de mozo a empleados (falta imagen)
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
+### Menu de mozo y su notificación de mozo de un pedido para preparar
+<img src="recursos/menuMozo.jpg" alt="ingreso" width="800px" height="600px">
 
 
-### Menu de mozo y su notificación de empleados al mozo (falta imagen)
-<img src="recursos/supervisor-notificacion.jpg" alt="ingreso" width="800px" height="600px">
+### Menu de mozo y su notificacion de de un pedido listo para servir 
+<img src="recursos/notificacion-servir.jpg" alt="ingreso" width="800px" height="600px">
+
+### Menu de Cocinero/bartender
+<img src="recursos/menu-cocinero-bartender.jpg" alt="ingreso" width="800px" height="600px">
 
 
 ### Home del Cliente Registrado/Anonimo 
@@ -219,7 +224,6 @@ Rori , Camila
 ### Cliente anonimo en lista de espera
 <img src="recursos/cliente-lista-de-espera.jpg" alt="ingreso" width="400px" height="600px">
 <img src="recursos/cliente-lista-de-espera2.jpg" alt="ingreso" width="400px" height="600px">
-
 
 
 ### Correción en asignacion de mesa
@@ -245,9 +249,27 @@ Rori , Camila
 ``` Rori , Camila ```
 
 - [x] Historial de Encuestas
-
+- [x] Confirmar Pagos (CAMI)
+- [x] Solicitar Cuenta (CAMI)
+- [x] Correcciones en alta de pedido (CAMI)
+- [x] Graficos de la encuesta
+- Desactivar el sonido
 
 
 ### Cliente en histórial de Encuestas
 <img src="recursos/Historico-Encuestas.jpg" alt="ingreso" width="350px" height="600px">
 
+
+### Confirmar Pagos
+
+
+### Solicitar Cuenta
+
+
+### Correciones en alta de pedido
+
+
+### Graficos de la encuesta
+
+
+### Desactivar el sonido
