@@ -126,9 +126,6 @@ Rori , Camila
 ### Asignacion de mesa con metre
 <img src="recursos/espera-asignacion.jpg" alt="comanda splash" width="800px" height="600px">
 
-### gif Asignacion
-
-![](https://github.com/geralvaredo/2021_TP_PPS_Comanda_2_cuatri/tree/main/recursos/asignarMesa.gif)
 
 ### Envio de Email
 <img src="recursos/EnvioDeMail.jpg" alt="comanda splash" width="400px" height="700px">
