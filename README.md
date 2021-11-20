@@ -278,5 +278,5 @@ Rori , Camila
 <img src="recursos/sprint4/graficos5.png" alt="ingreso" width="350px" height="600px">
 
 ### Desactivar el sonido
-<img src="recursos/sprint4/sonido1.png" alt="ingreso" width="350px" height="600px">
-<img src="recursos/sprint4/sonido2.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/sonido1.png" alt="ingreso" width="300px" height="50px">
+<img src="recursos/sprint4/sonido2.png" alt="ingreso" width="300px" height="50px">
