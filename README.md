@@ -23,9 +23,14 @@ Desarrolladores
 Rori, Camila
 ```
 
-- HEADER
-- 1 JUEGO
-- SERVICIO CONSULTA DE MESA
+- [x] HEADER
+- [x] 1 JUEGO
+- [x] SERVICIO CONSULTA DE MESA
+- [x] Codigo QR (mesas , propinas , ingreso)
+
+### Codigos QR
+<img src="recursos/sprint4/qr-ingreso.png" alt="login" width="400px" height="400px">
+
 
 
 ```
