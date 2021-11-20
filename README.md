@@ -149,7 +149,8 @@ Rori , Camila
 <img src="recursos/estado-pedido.jpg" alt="comanda splash" width="350px" height="640px">
 
 ### Solicitar Cuenta
-<img src="recursos/cuenta.jpg" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/sprint4/cuenta1.png" alt="comanda splash" width="350px" height="640px">
+<img src="recursos/sprint4/cuenta2.png" alt="comanda splash" width="350px" height="640px">
 
 ### Encuesta del Cliente 
 <img src="recursos/Encuesta.jpg" alt="comanda splash" width="1000px" height="600px">
