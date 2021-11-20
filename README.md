@@ -260,15 +260,21 @@ Rori , Camila
 
 
 ### Confirmar Pagos
-
-
-### Solicitar Cuenta
-
+<img src="recursos/sprint4/confirmar-pago1.png" alt="ingreso" width="350px" height="600px">
 
 ### Correciones en alta de pedido
-
+<img src="recursos/sprint4/alta-pedido-correccion1.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/alta-pedido-correccion2.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/alta-pedido-correccion3.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/alta-pedido-correccion4.png" alt="ingreso" width="350px" height="600px">
 
 ### Graficos de la encuesta
-
+<img src="recursos/sprint4/graficos1.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/graficos2.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/graficos3.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/graficos4.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/graficos5.png" alt="ingreso" width="350px" height="600px">
 
 ### Desactivar el sonido
+<img src="recursos/sprint4/sonido1.png" alt="ingreso" width="350px" height="600px">
+<img src="recursos/sprint4/sonido2.png" alt="ingreso" width="350px" height="600px">
