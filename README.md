@@ -249,11 +249,10 @@ Rori , Camila
 ``` Rori , Camila ```
 
 - [x] Historial de Encuestas
-- [x] Confirmar Pagos (CAMI)
-- [x] Solicitar Cuenta (CAMI)
-- [x] Correcciones en alta de pedido (CAMI)
+- [x] Confirmar Pagos 
+- [x] Correcciones en alta de pedido 
 - [x] Graficos de la encuesta
-- Desactivar el sonido
+- [x] Desactivar el sonido
 
 
 ### Cliente en histórial de Encuestas
